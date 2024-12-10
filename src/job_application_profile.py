@@ -7,7 +7,7 @@ from src.logging import logger
 
 @dataclass
 class SelfIdentification:
-    gender: 
+    gender: str
     pronouns: str
     veteran: str
     disability: str
